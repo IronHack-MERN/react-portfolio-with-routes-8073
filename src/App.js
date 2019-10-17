@@ -5,6 +5,7 @@ import About from './components/About';
 import Navbar from './components/Navbar';
 import Projects from './components/Projects';
 import { Switch, Route } from 'react-router-dom';
+import NavLink from 'react-router-dom'
 
 function App() {
   return (
